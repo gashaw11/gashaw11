@@ -2,7 +2,7 @@ import random, sys
 wins = 0
 losses = 0
 ties = 0
-print("gashaw)
+print("gashaw")
 while True:
     print(f"{wins} wins, {losses} losses, {ties} ties") 
     while True:
