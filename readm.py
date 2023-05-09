@@ -3,6 +3,7 @@ wins = 0
 losses = 0
 ties = 0
 print("gashaw1223")
+print("Gashaw4321")
 while True:
     print(f"{wins} wins, {losses} losses, {ties} ties") 
     while True:
